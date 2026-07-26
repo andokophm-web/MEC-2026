@@ -1,0 +1,22 @@
+{
+  "name": "MEC Fit Tracker 2026",
+  "short_name": "MEC Fit",
+  "description": "Monitoring latihan fisik Tim Mahakam EIT Challenge 2026 - Pertamina Hulu Mahakam",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F4F5F7",
+  "theme_color": "#E30613",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
